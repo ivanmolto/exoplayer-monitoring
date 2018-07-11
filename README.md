@@ -43,6 +43,7 @@ Every time a previous event happens, calculate and send a console output:
 * Number of pauses/resumes that happened with reset after reproductions ends `pauses`/`resumes`.
 
 Please see below a screenshot of monitoring mobile video player with this application.
+![Logcat monitoring](./logcat-screenshot.png "Logcat monitoring")
 
 
 ## Resources
